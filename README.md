@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo](https://github.com/SauravKarnIndia/SauravKarnIndia/blob/main/Your%20paragraph%20text.png)
+![logo](https://github.com/SauravKarnIndia/SauravKarnIndia/blob/main/COMPUTER%20SCIENCE%20ENGINEER.png)
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
